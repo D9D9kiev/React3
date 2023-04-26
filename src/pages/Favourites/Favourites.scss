@@ -1,0 +1,30 @@
+.products {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    &--empty {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-size: 30px;
+      font-weight: bold;
+      color: #ccc;
+    }
+  }
+}
+
+.item {
+  width: calc(100% / 3 - 20px);
+  &__info h2 {
+    height: 60px;
+  }
+  &__buttons {
+    margin-bottom: 20px;
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "name": "Apple iPhone 14 512 GB",
+      "price": "CA$1,099",
+      "image": "https://www.istore.ua/upload/iblock/3de/1p3ro2jclzupun58n79r34lz2y0sjc1n/MR3P3_5_is.png",
+      "article": "999",
+      "color": "Yellow"
+    },
+    {
+      "name": "Apple iPhone 14 256 GB",
+      "price": "CA$899",
+      "image": "https://www.istore.ua/upload/iblock/47c/fhv5s35ljp7vxwthpr1fldcich5nslge/14_star_black_1_is.png",
+      "article": "998",
+      "color": "Midnight"
+    },
+    {
+      "name": "Apple iPhone 14 Pro Max 1 TB",
+      "price": "CA$1,599",
+      "image": "https://www.istore.ua/upload/iblock/f6f/ifs47ooulqkg1kibu0ttqessrpvus4ay/14_pro_space_black_3_is.png",
+      "article": "997",
+      "color": "Space Black"
+    },
+    {
+      "name": "Apple iPhone 14 Pro Max 512 GB",
+      "price": "CA$1,399",
+      "image": "https://www.istore.ua/upload/iblock/462/57wfa94g58hi6oorakqoso8se5ue16d0/14_pro_max_gpurpl_3_is.png",
+      "article": "996",
+      "color": "Deep Purple"
+    },
+    {
+      "name": "Apple iPhone 14 Pro Max 256 GB",
+      "price": "CA$1,199",
+      "image": "https://www.istore.ua/upload/iblock/eda/vi5d46azylmwra06viejk1ip3x2m4409/14_pro_max_silver_3_is.png",
+      "article": "995",
+      "color": "Silver"
+    },
+    {
+      "name": "Apple iPhone 14 Plus 128 GB",
+      "price": "CA$899",
+      "image": "https://www.istore.ua/upload/iblock/a7c/cw1h3utgxejz2art6xgvgeht5861yurf/14_plus_starlight_3_is.png",
+      "article": "994",
+      "color": "Starlight"
+    },
+    {
+      "name": "Apple AirPods Max",
+      "price": "CA$549",
+      "image": "https://www.istore.ua/upload/iblock/5c2/apple_airpods_max_pink.jpg",
+      "article": "993",
+      "color": "Pink"
+    },
+    {
+      "name": "Apple AirPods Max",
+      "price": "CA$549",
+      "image": "https://www.istore.ua/upload/iblock/458/apple_airpods_max_silver.jpg",
+      "article": "992",
+      "color": "Silver"
+    },
+    {
+      "name": "Apple AirPods 3",
+      "price": "CA$249",
+      "image": "https://www.istore.ua/upload/iblock/06c/y6gy7mb5nkj14ijpck7vfa9xb41b727t/apple_airpods_3_11_is.jpg",
+      "article": "991",
+      "color": "White"
+    },
+    {
+      "name": "Apple Watch Ultra GPS + Cellular",
+      "price": "CA$799",
+      "image": "https://www.istore.ua/upload/iblock/01f/uh541s0unec4z3jwc986rtq92do4fpyz/MQFW3_3_is.png",
+      "article": "990",
+      "color": "Black"
+    }
+  ]
+}
